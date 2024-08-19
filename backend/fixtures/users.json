@@ -1,0 +1,27 @@
+{
+    "1": {
+        "email": "JakeS@gmail.com",
+        "first_name": "Jake",
+        "last_name": "Smith"
+    },
+    "2": {
+        "email": "DanR@gmail.com",
+        "first_name": "Dan",
+        "last_name": "Rocker"
+    },
+    "3": {
+        "email": "ElizabethF@gmail.com",
+        "first_name": "Elizabeth",
+        "last_name": "Flowers"
+    },
+    "4": {
+        "email": "AlexT@gmail.com",
+        "first_name": "Alex",
+        "last_name": "Trebeck"
+    },
+    "5": {
+        "email": "KateL@gmail.com",
+        "first_name": "Kate",
+        "last_name": "Lynch"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "1": {
+        "classroom_id": 1,
+        "user_id": 1,
+        "is_teacher": false
+    },
+    "2": {
+        "classroom_id": 1,
+        "user_id": 2,
+        "is_teacher": false
+    },
+    "3": {
+        "classroom_id": 1,
+        "user_id": 3,
+        "is_teacher": false
+    },
+    "4": {
+        "classroom_id": 1,
+        "user_id": 4,
+        "is_teacher": true
+    },
+    "5": {
+        "classroom_id": 1,
+        "user_id": 5,
+        "is_teacher": false
+    },
+    "6": {
+        "classroom_id": 2,
+        "user_id": 1,
+        "is_teacher": false
+    },
+    "7": {
+        "classroom_id": 2,
+        "user_id": 4,
+        "is_teacher": false
+    },
+    "8": {
+        "classroom_id": 2,
+        "user_id": 5,
+        "is_teacher": true
+    },
+    "9": {
+        "classroom_id": 3,
+        "user_id": 1,
+        "is_teacher": false
+    },
+    "10": {
+        "classroom_id": 3,
+        "user_id": 2,
+        "is_teacher": false
+    }
+}

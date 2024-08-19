@@ -1,0 +1,14 @@
+{
+    "1": {
+        "title": "Intro to Python",
+        "description": "Learn Python through introductary projects based on real world applications"
+    },
+    "2": {
+        "title": "Intermediate Fly Fishing",
+        "description": "Learn advanced fly fishing techniques on the river"
+    },
+    "3": {
+        "title": "Quantum Physics",
+        "description": "Discover how quantum particles behave"
+    }
+}
